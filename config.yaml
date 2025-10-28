@@ -1,0 +1,3 @@
+# Configurazione di esempio (può essere estesa)
+server:
+  port: 8080
